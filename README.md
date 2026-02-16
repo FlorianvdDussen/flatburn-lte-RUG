@@ -1,24 +1,19 @@
 <h1>Flatburn-LTE deployment Rijksuniversiteit Groningen</h1>
 
 A visual overview of the Flatburn-LTE system as deployed at the Rijksuniversiteit Groningen.
-Swap in your module photos and exploded views below to create a clean, engaging preview.
 
 ## At a glance
 | Item | Detail |
 | --- | --- |
 | Deployment site | Rijksuniversiteit Groningen |
-| System role | [One-line purpose, e.g., LTE-enabled sensing platform] |
-| Key modules | Module 1, Module 2, [add more] |
-| Enclosure | [Material / IP rating] |
+| System role | [ Mobile Air Quality Sensing Network ] |
+| Enclosure | [ PETG / ASA ] |
 | Power | [Battery / mains / solar] |
-| Status | [Operational / prototype / retired] |
+| Status | [ Prototype ] |
 | Last updated | 2026-02-16 |
 
 ## System overview
 ![System overview photo](assets/modules/Module-1.jpg)
-
-Replace this image with a wide system overview photo when available.
-Include 2-3 sentences on system intent, environment, and constraints.
 
 ## Module gallery
 <table>
@@ -36,8 +31,6 @@ Include 2-3 sentences on system intent, environment, and constraints.
   </tr>
 </table>
 
-One short paragraph explaining how the modules relate and why these are the key building blocks.
-Duplicate cells to add more modules.
 
 ## Exploded views
 <table>
@@ -50,7 +43,7 @@ Duplicate cells to add more modules.
   </tr>
 </table>
 
-Add a short note about assembly order, fasteners, or serviceability.
+
 
 ## Architecture snapshot
 Add a block diagram at `assets/architecture-block-diagram.png`, then uncomment the line below.
