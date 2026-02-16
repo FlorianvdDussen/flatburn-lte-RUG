@@ -44,20 +44,9 @@ A visual overview of the Flatburn-LTE system as deployed at the Rijksuniversitei
 </table>
 
 
-
-## Architecture snapshot
-Add a block diagram at `assets/architecture-block-diagram.png`, then uncomment the line below.
-<!-- ![Block diagram](assets/architecture-block-diagram.png) -->
-
-2-3 sentences describing the signal flow and data path from sensors to LTE backhaul.
-
 ## Repository map
 - `hardware/` Hardware design files, CAD, and BOMs.
 - `firmware/` Embedded firmware sources and build notes.
 - `Version_22_1/` Reference release snapshot for the deployment.
 - `assets/` Image assets for this overview page.
 
-## How to update images
-1. Drop images into `assets/`, `assets/modules/`, or `assets/exploded/`.
-1. Update the filenames in this README to match your assets.
-1. Keep a consistent crop ratio and background for a cohesive gallery.
